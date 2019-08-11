@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buildingConfig buildingName="Monorail Station Standalone">
+  <boardDescriptor propName="1679676810.BoardV6plat_Data" scaleX="1" positionX="0" positionY="6" positionZ="-0.05" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
+    <platformOrder>
+      <p>0</p>
+      <p>1</p>
+    </platformOrder>
+  </boardDescriptor>
+</buildingConfig>

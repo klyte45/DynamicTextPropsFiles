@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buildingConfig buildingName="Train Station">
+  <boardDescriptor propName="1679674753.BoardV6_Data" scaleX="1" positionX="8" positionY="6" positionZ="0.5" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.4" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <platformOrder>
+      <p>0</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679674753.BoardV6_Data" scaleX="1" positionX="-13.5" positionY="6" positionZ="0.5" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.4" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <platformOrder>
+      <p>0</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679674753.BoardV6_Data" scaleX="1" positionX="0" positionY="5" positionZ="-16" rotationX="0" rotationY="180" rotationZ="0" showIfNoLine="true">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.4" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <platformOrder>
+      <p>1</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679674753.BoardV6_Data" scaleX="1" positionX="-14" positionY="8" positionZ="22" rotationX="0" rotationY="180" rotationZ="0" showIfNoLine="true">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.4" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <platformOrder>
+      <p>0</p>
+      <p>1</p>
+    </platformOrder>
+  </boardDescriptor>
+</buildingConfig>
