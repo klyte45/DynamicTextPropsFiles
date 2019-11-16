@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buildingConfig buildingName="1194296555.Bright Coppice Station_Data">
+  <boardDescriptor propName="1679674753.BoardV6_Data" platforms="0" showIfNoLine="true" scaleX="1.35" scaleY="3" scaleZ="2" positionX="-19" positionY="10" positionZ="6.4" rotationX="0" rotationY="180" rotationZ="0">
+    <textDescriptor textScale="3" maxWidth="21" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="2" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.4" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" /><platformOrder>
+	<p>0</p>
+	</platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679674753.BoardV6_Data" platforms="1" showIfNoLine="true" scaleX="1.35" scaleY="3" scaleZ="2" positionX="-19" positionY="10" positionZ="-6.4" rotationX="0" rotationY="0" rotationZ="0">
+    <textDescriptor textScale="3" maxWidth="21" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="2" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.4" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" /><platformOrder>
+	<p>1</p>
+	</platformOrder>
+  </boardDescriptor>
+
+  <boardDescriptor propName="1679676810.BoardV6plat_Data" platforms="0" showIfNoLine="true" scaleX="1" positionX="52" positionY="-1.5" positionZ="0.05" rotationX="0" rotationY="0" rotationZ="0">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" /><platformOrder>
+	<p>0</p>
+	</platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679676810.BoardV6plat_Data" platforms="1" showIfNoLine="true" scaleX="1" positionX="52" positionY="-1.5" positionZ="-0.05" rotationX="0" rotationY="0" rotationZ="0">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" /><platformOrder>
+	<p>1</p>
+	</platformOrder>
+</boardDescriptor>
+
+  <boardDescriptor propName="1679676810.BoardV6plat_Data" platforms="0" showIfNoLine="true" scaleX="1" positionX="20" positionY="-1.5" positionZ="0.05" rotationX="0" rotationY="0" rotationZ="0">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" /><platformOrder>
+	<p>0</p>
+	</platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679676810.BoardV6plat_Data" platforms="1" showIfNoLine="true" scaleX="1" positionX="20" positionY="-1.5" positionZ="-0.05" rotationX="0" rotationY="0" rotationZ="0">
+    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" /><platformOrder>
+	<p>1</p>
+	</platformOrder>
+</boardDescriptor>
+
+  <boardDescriptor propName="1679676810.BoardV6plat_Data" platforms="0" showIfNoLine="true" scaleX="0.75" scaleY="1" positionX="-38" positionY="0" positionZ="0.05" rotationX="0" rotationY="0" rotationZ="0">
+    <textDescriptor textScale="1" maxWidth="10" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" /><platformOrder>
+	<p>0</p>
+	</platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679676810.BoardV6plat_Data" platforms="1" showIfNoLine="true" scaleX="0.75" scaleY="1" positionX="-38" positionY="0" positionZ="-0.05" rotationX="0" rotationY="0" rotationZ="0">
+    <textDescriptor textScale="1" maxWidth="10" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" /><platformOrder>
+	<p>1</p>
+	</platformOrder>
+</boardDescriptor>
+
+</buildingConfig>

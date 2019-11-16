@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <buildingConfig buildingName="Monorail Bus Hub">
   <boardDescriptor propName="1679676810.BoardV6plat_Data" scaleX="1" positionX="0.05" positionY="6" positionZ="0" rotationX="0" rotationY="270" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform">
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
     <platformOrder>
       <p>0</p>
       <p>1</p>
     </platformOrder>
   </boardDescriptor>
   <boardDescriptor propName="1679676810.BoardV6plat_Data" scaleX="1" positionX="29.5" positionY="-1" positionZ="4" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform">
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
     <platformOrder>
       <p>5</p>
       <p>3</p>
@@ -18,8 +18,8 @@
     </platformOrder>
   </boardDescriptor>
   <boardDescriptor propName="1679676810.BoardV6plat_Data" scaleX="1" positionX="29.5" positionY="-1" positionZ="-4" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform">
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
     <platformOrder>
       <p>7</p>
       <p>9</p>
@@ -27,8 +27,8 @@
     </platformOrder>
   </boardDescriptor>
   <boardDescriptor propName="1679676810.BoardV6plat_Data" scaleX="1" positionX="-29.5" positionY="-1" positionZ="4" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform">
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
     <platformOrder>
       <p>6</p>
       <p>4</p>
@@ -36,8 +36,8 @@
     </platformOrder>
   </boardDescriptor>
   <boardDescriptor propName="1679676810.BoardV6plat_Data" scaleX="1" positionX="-29.5" positionY="-1" positionZ="-4" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform">
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
-    <textDescriptor textScale="1" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.7" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="-0.13" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" />
+    <textDescriptor textScale="0.8" maxWidth="15.5" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="4.65" relativePositionZ="0.02" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" />
     <platformOrder>
       <p>8</p>
       <p>10</p>

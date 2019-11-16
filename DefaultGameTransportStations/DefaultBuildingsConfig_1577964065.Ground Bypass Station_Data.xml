@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buildingConfig buildingName="1577964065.Ground Bypass Station_Data">
+  <boardDescriptor propName="1679674753.BoardV6_Data" scaleX="1" positionX="12" positionY="4" positionZ="5" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform" saveName="NomeEstP1A">
+    <textDescriptor textScale="1" maxWidth="0" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.35" relativePositionZ="-0.06" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" color="FFFFFF" />
+    <platformOrder>
+      <p>0</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679674753.BoardV6_Data" scaleX="1" positionX="-12" positionY="4" positionZ="5" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform" saveName="NomeEstP1B">
+    <textDescriptor textScale="1" maxWidth="0" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.35" relativePositionZ="-0.06" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" color="FFFFFF" />
+    <platformOrder>
+      <p>0</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679674753.BoardV6_Data" scaleX="0.62" scaleY="1" scaleZ="1" positionX="-1.62" positionY="5" positionZ="-18.95" rotationX="0" rotationY="180" rotationZ="0" showIfNoLine="true" coloringMode="ByPlatform" saveName="NomeEstP2">
+    <textDescriptor textScale="1" maxWidth="0" applyOverflowResizingOnY="false" useContrastColor="true" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="0.35" relativePositionZ="-0.06" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" color="FFFFFF" />
+    <platformOrder>
+      <p>1</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1833197583._K45 Board 6m_Data" scaleX="1" positionX="15" positionY="4" positionZ="-18" rotationX="0" rotationY="90" rotationZ="0" showIfNoLine="false" coloringMode="ByPlatform" saveName="Dest P2">
+    <textDescriptor textScale="0.5" maxWidth="8" applyOverflowResizingOnY="true" useContrastColor="false" textType="Fixed" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="2.5" relativePositionZ="0.08" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 DestFixo" />
+    <textDescriptor textScale="0.5" maxWidth="8" applyOverflowResizingOnY="true" useContrastColor="false" textType="Fixed" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="2.5" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 DestFixo" />
+    <textDescriptor textScale="1" maxWidth="6" applyOverflowResizingOnY="true" useContrastColor="true" textType="Custom3" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="1.82" relativePositionZ="0.08" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 Dest" />
+    <textDescriptor textScale="1" maxWidth="6" applyOverflowResizingOnY="true" useContrastColor="true" textType="Custom3" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="1.82" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 Dest" />
+    <platformOrder>
+      <p>1</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1833197583._K45 Board 6m_Data" scaleX="1" positionX="15" positionY="4" positionZ="2" rotationX="0" rotationY="90" rotationZ="0" showIfNoLine="false" coloringMode="ByPlatform" saveName="Dest P1">
+    <textDescriptor textScale="0.5" maxWidth="8" applyOverflowResizingOnY="true" useContrastColor="false" textType="Fixed" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="2.5" relativePositionZ="0.08" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 DestFixo" />
+    <textDescriptor textScale="0.5" maxWidth="8" applyOverflowResizingOnY="true" useContrastColor="false" textType="Fixed" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="2.5" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 DestFixo" />
+    <textDescriptor textScale="1" maxWidth="6" applyOverflowResizingOnY="true" useContrastColor="true" textType="Custom3" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="1.82" relativePositionZ="0.08" relativeRotationX="0" relativeRotationY="180" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 Dest" />
+    <textDescriptor textScale="1" maxWidth="6" applyOverflowResizingOnY="true" useContrastColor="true" textType="Custom3" fixedText="Destino" fixedTextLocalized="false" nightEmissiveMultiplier="0" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0" relativePositionY="1.82" relativePositionZ="-0.08" relativeRotationX="0" relativeRotationY="0" relativeRotationZ="0" color="FEFEFE" overrideFont="Arial Italic" saveName="_k45 Dest" />
+    <platformOrder>
+      <p>0</p>
+    </platformOrder>
+  </boardDescriptor>
+</buildingConfig>

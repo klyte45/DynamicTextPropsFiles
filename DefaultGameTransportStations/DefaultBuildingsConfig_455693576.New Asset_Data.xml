@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buildingConfig buildingName="455693576.New Asset_Data">
+  <boardDescriptor propName="1679686240.Metro Totem_Data" scaleX="1" positionX="-4" positionY="0" positionZ="4" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="false" coloringMode="ByPlatform" saveName="Metro Totem">
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="-0.09" relativeRotationX="0" relativeRotationY="330" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="0.09" relativeRotationX="0" relativeRotationY="210" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0.14" relativePositionY="2.2" relativePositionZ="0" relativeRotationX="0" relativeRotationY="90" relativeRotationZ="270" forceColor="FFFFFF" />
+    <platformOrder>
+      <p>2</p>
+      <p>3</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679686240.Metro Totem_Data" scaleX="1" positionX="4" positionY="0" positionZ="4" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="false" coloringMode="ByPlatform" saveName="Metro Totem">
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="-0.09" relativeRotationX="0" relativeRotationY="330" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="0.09" relativeRotationX="0" relativeRotationY="210" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0.14" relativePositionY="2.2" relativePositionZ="0" relativeRotationX="0" relativeRotationY="90" relativeRotationZ="270" forceColor="FFFFFF" />
+    <platformOrder>
+      <p>0</p>
+      <p>1</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679686240.Metro Totem_Data" scaleX="1" positionX="4" positionY="0" positionZ="5" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="false" coloringMode="ByPlatform" saveName="Metro Totem">
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="-0.09" relativeRotationX="0" relativeRotationY="330" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="0.09" relativeRotationX="0" relativeRotationY="210" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0.14" relativePositionY="2.2" relativePositionZ="0" relativeRotationX="0" relativeRotationY="90" relativeRotationZ="270" forceColor="FFFFFF" />
+    <platformOrder>
+      <p>4</p>
+      <p>5</p>
+    </platformOrder>
+  </boardDescriptor>
+  <boardDescriptor propName="1679686240.Metro Totem_Data" scaleX="1" positionX="-4" positionY="0" positionZ="5" rotationX="0" rotationY="0" rotationZ="0" showIfNoLine="false" coloringMode="ByPlatform" saveName="Metro Totem">
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="-0.09" relativeRotationX="0" relativeRotationY="330" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="-0.01" relativePositionY="2.2" relativePositionZ="0.09" relativeRotationX="0" relativeRotationY="210" relativeRotationZ="270" forceColor="FFFFFF" />
+    <textDescriptor textScale="0.5" maxWidth="2.5" applyOverflowResizingOnY="false" useContrastColor="false" textType="OwnName" fixedTextLocalized="false" nightEmissiveMultiplier="7" dayEmissiveMultiplier="0" textAlign="Center" verticalAlign="Middle" relativePositionX="0.14" relativePositionY="2.2" relativePositionZ="0" relativeRotationX="0" relativeRotationY="90" relativeRotationZ="270" forceColor="FFFFFF" />
+    <platformOrder>
+      <p>7</p>
+      <p>6</p>
+    </platformOrder>
+  </boardDescriptor>
+</buildingConfig>
